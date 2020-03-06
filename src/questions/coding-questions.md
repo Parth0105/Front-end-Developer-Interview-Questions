@@ -16,8 +16,8 @@ console.log(0.1 + 0.2 == 0.3);
 
 Question: How would you make this work?
 ```javascript
-add(2, 5); // 7
-add(2)(5); // 7
+add(2, 5); // 7?
+add(2)(5); // 7?
 ```
 
 Question: What value is returned from the following statement?
